@@ -37,6 +37,7 @@ To explore the Nike Store locally, follow these simple steps:
 
 1. Clone the repository:
 
+
 ```bash
 git clone [repository_url]
 cd [project_directory]
